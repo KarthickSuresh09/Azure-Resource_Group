@@ -1,0 +1,14 @@
+Step 1:
+ ==> Subscription : Azure subscription
+      ==> Subscription section chose your subscription
+
+Step 2:
+ ==> Resource group name : "Enter the Resource group name"
+     ==> Resource group name must be unique only within your Azure subscription.
+
+Step 3: 
+ ==> Region : (Asia Pacific) South India
+     ==> Region  In region section which region you can chose
+
+Step 4: 
+ ==> Review + create
